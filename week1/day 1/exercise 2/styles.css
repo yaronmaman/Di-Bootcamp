@@ -1,0 +1,35 @@
+body{
+    background-image: url(imagess.jpg);
+    background-position: center;
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    height:100px;
+  
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,label {
+    margin: 0.4rem 0;
+}
+.nav-bar{
+    border: 2px solid red;
+    position: relative;
+    left: 300px;
+}
+.text{
+    text-align: center;
+    margin-top: 100px;
+    color: black;
+}
+.email{
+    text-align: center;
+}
+.textemail{
+    position: relative;
+}
+.fa-solid:fa-desktop{
+    width: 200px;
+}
